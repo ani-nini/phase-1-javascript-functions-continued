@@ -1,8 +1,8 @@
 // Your code here
-function saturdayFun (activity = 'roller-skate', clean = "bathe my dog!"){
+function saturdayFun (activity = 'roller-skate'){
     return (`This Saturday, I want to ${activity}!`);
 }
-function mondayWork( workOffice = 'go to the office',worHome= "work from home"){
+function mondayWork( workOffice = 'go to the office'){
     return(`This Monday, I will ${workOffice}.`);
 
 }
